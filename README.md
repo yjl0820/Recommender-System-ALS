@@ -1,1 +1,1 @@
-# LightGCN-Ensemble-Learning
+# Recommender System Using ALS
